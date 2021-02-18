@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Player</string>
+    <string name="library_heading">My music library</string>
+    <string name="info_heading">About this song</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="title_default">Choose a title</string>
+    <string name="back">Go back</string>
+    <string name="play_pause">▸</string>
+    <string name="fox_info">"The Fox (What Does the Fox Say?)" is an electronic dance novelty song and viral video by Norwegian comedy duo Ylvis. The top trending video of 2013 on YouTube, "The Fox" was posted on the video-sharing website on 3 September 2013, and has received over 900 million views as of December 2019. "The Fox" peaked at the top of the Norwegian Singles Chart and was hugely successful in the United States, where it peaked at number six on the Billboard Hot 100 for three consecutive weeks, and was, before the U.S. release of "Am I Wrong" by Nico and Vinz, the highest-ranked song by a Norwegian artist on the chart since A-ha\'s number-one song "Take On Me" in 1985.\n\nSource: Wikipedia\n</string>
+    <string name="africa_info">\"Africa\" is a song recorded by the American rock band Toto in 1981, for their fourth studio album Toto IV, and released as the album\'s third single on September 30, 1982, through Columbia Records. The song was written by band members David Paich and Jeff Porcaro.\n\nCritics praised its composition and Toto\'s performances. The song reached number one on the United States\' Billboard Hot 100 chart and is the band\'s only Billboard number one. The song remained at the top for a single week (February 5, 1983). \"Africa\" also peaked in the top ten in the United Kingdom, Canada, Ireland, Netherlands, New Zealand, and Switzerland.\n\nSource: Wikipedia\n</string>
+    <string name="move_it_info">\"I Like to Move It\" is a song by American electronic dance duo Reel 2 Real (Erick Morillo), featuring ragga vocals by Trinidad and Tobago rapper The Mad Stuntman (Mark Quashie). The song appeared on the Billboard Hot 100 chart in 1994, peaking at number 89 and reached number 5 on the UK Singles Chart. It was a number-one hit in Belgium, France, the Netherlands and Zimbabwe. On the US Billboard Hot Dance Music/Club Play chart, it peaked at number 8.\n\nSource: Wikipedia</string>
+</resources>
